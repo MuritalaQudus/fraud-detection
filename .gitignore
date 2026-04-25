@@ -1,0 +1,32 @@
+# Virtual environment
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (optional - usually don't upload raw data)
+data/raw/
+data/processed/
+
+# Models
+models/
+*.pkl
+
+# Logs
+*.log
+
+# Mac system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Streamlit cache
+.streamlit/
